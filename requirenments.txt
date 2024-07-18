@@ -1,0 +1,8 @@
+torch
+matplotlib
+io
+base
+numpy
+pandas
+sentence_tranformers
+gdown
